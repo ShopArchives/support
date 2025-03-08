@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <base target="_blank">
+    <title>Loading... | Shop Archives</title>
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <meta content="Shop Archives" property="og:title" />
+    <meta content="Your one stop place for all Discord Collectibles" property="og:description" />
+    <meta content="https://yapper.shop/" property="og:url" />
+    <meta content="https://raw.githubusercontent.com/DTACat/Collectibles/main/Images/EmbedImage.png" property="og:image" />
+    <meta content="#FF007A" data-react-helmet="true" name="theme-color" />
+    <link rel="stylesheet" href="/styles.css">
+</head>
+
+<body>
+    <div class="housing">
+        <div class="sidebar">
+            <div class="dm-list">
+                <div style="height: 100%; margin-top: 50px;" id="clickable-side-tabs-container">
+                </div>
+            </div>
+            <div class="server-list">
+                <div class="server-avatar">
+                    <button class="server-icon server-icon-selected server-home" id="activate-dev-mode-button">
+                    </button>
+                    <div class="server-pill">
+                    </div>
+                </div>
+                <hr style="opacity: 0;">
+                <div data-servers>
+                </div>
+                <template data-servers-template>
+                    <div class="server-avatar" data-servers-button>
+                        <img class="server-icon" src="" data-server-icon>
+                        </img>
+                    </div>
+                </template>
+            </div>
+            <div style="width: 320px;">
+            </div>
+        </div>
+        <div class="top-bar" id="top-bar-container">
+            <h2 style="margin-left: 260px; margin-top: 10px;">Loading...</h2>
+            <div id="open-help-modals-buttons-holder"></div>
+        </div>
+        <div class="home-housing" id="everything-housing-container">
+        </div>
+    </div>
+    <div class="modal-housing" id="modal-housing"></div>
+    <div class="options-sidebar-container" id="options-sidebar-container">
+    </div>
+    
+    <script src="22.js"></script>
+    <script>
+        if (localStorage.full_client_rework === "false") {
+            location.href='/home';
+        } else {
+            let clickCount = 0;
+
+            document.getElementById("activate-dev-mode-button").addEventListener("click", function() {
+                clickCount++;
+
+                if (clickCount === 8) {
+                    if (localStorage.dev === "true") {
+                        turnOffDevMode();
+                    } else {
+                        dev();
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>

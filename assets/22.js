@@ -402,18 +402,6 @@ function createRecap2024Element() {
             <div class="a2024-recap-text-card-1">
                 <h1 class="center-text abcgintonord" style="font-size: 44px; margin-top: 0px; margin-bottom: 0px;">Step 4</h1>
 
-                <p>on Discord, locate the ''Payment Flow Modals'' tab in the user settings and paste the SKU ID into the box under ''Collectibles Payment Modal Test'' and click ''Open Collectibles Payment Modal for SKU''.</p>
-
-                <img class="a2024-recap-img-1" src="${cdn}assets/165.png">
-
-                <p>If clicking ''Open Collectibles Payment Modal for SKU'' hardlocks Discord, (getting Nameplates has most likely been patched) refresh Discord.</p>
-            </div>
-
-            <hr style="opacity: 0; height: 30px;">
-
-            <div class="a2024-recap-text-card-1">
-                <h1 class="center-text abcgintonord" style="font-size: 44px; margin-top: 0px; margin-bottom: 0px;">Step 5</h1>
-
                 <p>Purchase your desired Nameplate.</p>
 
                 <img class="a2024-recap-img-1" style="max-height: 700px; width: auto;" src="${cdn}assets/166.png">
@@ -426,7 +414,7 @@ function createRecap2024Element() {
             <hr style="opacity: 0; height: 30px;">
 
             <div class="a2024-recap-text-card-1">
-                <h1 class="center-text abcgintonord" style="font-size: 44px; margin-top: 0px; margin-bottom: 0px;">Step 6</h1>
+                <h1 class="center-text abcgintonord" style="font-size: 44px; margin-top: 0px; margin-bottom: 0px;">Step 5</h1>
 
                 <p>You can now go to you profile settings and click ''Change Nameplate''.</p>
 
@@ -436,7 +424,7 @@ function createRecap2024Element() {
             <hr style="opacity: 0; height: 30px;">
 
             <div class="a2024-recap-text-card-1">
-                <h1 class="center-text abcgintonord" style="font-size: 44px; margin-top: 0px; margin-bottom: 0px;">Step 7</h1>
+                <h1 class="center-text abcgintonord" style="font-size: 44px; margin-top: 0px; margin-bottom: 0px;">Step 6</h1>
 
                 <p>Apply the Nameplate you purchased and your Nameplate will be visible to anyone with the experiment ''2025-02_name_plate_experiment'' set to ''Treatment 1: Can see'' or ''Treatment 2: Can see and buy''.</p>
 

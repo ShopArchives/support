@@ -358,7 +358,7 @@ function createRecap2024Element() {
             <div class="a2024-recap-text-card-1">
                 <h1 class="center-text abcgintonord" style="font-size: 44px; margin-top: 0px; margin-bottom: 0px;">How to get Nameplates early</h1>
 
-                <p class="center-text" style="font-size: 18px;">This tutorial will teach you how Discord Nameplates early.</p>
+                <p class="center-text" style="font-size: 18px;">This tutorial will teach you how to get Discord Nameplates early.</p>
                 <p class="center-text" style="font-size: 18px;">Requirements:</p>
                 <a class="clickable" style="color: lightblue;" onClick="setPage('experiments')">Experiments Enabled</a>
             </div>

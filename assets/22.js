@@ -371,6 +371,10 @@ function createRecap2024Element() {
                 <p>Locate the ''Experiments'' tab in the user settings and set the experiment ''2025-02_nameplate_purchasing'' to ''Treatment 1: Can purchase''.</p>
 
                 <img class="a2024-recap-img-1" src="${cdn}assets/163.png">
+
+                <p>Set the experiment ''2025-02_name_plate_experiment'' to ''Treatment 2: Can see and buy''.</p>
+
+                <img class="a2024-recap-img-1" src="${cdn}assets/171.png">
             </div>
 
             <hr style="opacity: 0; height: 30px;">
@@ -435,7 +439,7 @@ function createRecap2024Element() {
 
             <div class="a2024-recap-text-card-1" style="padding: 0px;">
                 <p class="center-text" style="font-size: 18px;">Article written by DTACat</p>
-                <p class="center-text" style="font-size: 18px;" title="DD/MM/YYYY">Article last updated on 8/03/2025</p>
+                <p class="center-text" style="font-size: 18px;" title="DD/MM/YYYY">Article last updated on 10/03/2025</p>
             </div>
         </div>
     `;

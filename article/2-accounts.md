@@ -9,7 +9,8 @@
 
 When you choose 'Basic' log in, You will have access to the following features:
 
-- The creation of item Reviews.
+- Preview your Discord profile across the website.
+- See and Write reviews for categories.
 
 ---
 
@@ -24,7 +25,8 @@ By default your Shop Archives Token will expire within 30 days of creation (can 
 
 You will have access to the following features:
 
-- The creation of item Reviews.
+- Preview your Discord profile across the website.
+- See and Write reviews for categories.
 - Beta Program (Early access to new features).
 
 ---

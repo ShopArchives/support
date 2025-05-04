@@ -9,7 +9,7 @@ On our platform, some users may be recognized with special badges next to their 
 
 ## Bug Hunter
 
-![image](https://github.com/user-attachments/assets/accebecf-2da0-4ee5-bf4d-6547c9f6e3d7)
+![Bug Hunter Badge Preview](https://github.com/user-attachments/assets/0f621bef-29a4-4ac7-b890-4a2a8abe46c4)
 
 **Purpose:**  
 Awarded to users who actively report bugs, glitches, or issues with the platform. This badge is a token of appreciation for helping improve the quality and stability of our service.
@@ -27,7 +27,7 @@ Awarded to users who actively report bugs, glitches, or issues with the platform
 
 ## Collectibles Dataminer
 
-![image](https://github.com/user-attachments/assets/0070e0b9-61cc-4a25-ad9f-1f68153bea5a)
+![Collectibles Dataminer Badge Preview](https://github.com/user-attachments/assets/5586d453-0a91-4aae-bd59-c20fba6c0fee)
 
 **Purpose:**  
 Awarded to users who contribute to the accuracy and completeness of our collectible item listings by discovering and reporting unreleased or hidden items.
@@ -47,7 +47,7 @@ Awarded to users who contribute to the accuracy and completeness of our collecti
 
 ## Official Server Booster
 
-![Official Server Booster Badge Preview](https://github.com/user-attachments/assets/a937a62f-00ec-4925-90a8-25b9cc7757e3)
+![Official Server Booster Badge Preview](https://github.com/user-attachments/assets/b82e88e7-3723-452d-b9c0-5fd2474f5ee5)
 
 **Purpose:**  
 Awarded to users who support the development of Shop Archives.
@@ -62,7 +62,7 @@ Awarded to users who support the development of Shop Archives.
 
 ## Staff
 
-![image](https://github.com/user-attachments/assets/b6168233-73dd-42e9-b68a-fc736bd81074)
+![Staff Badge Preview](https://github.com/user-attachments/assets/78853326-6253-4fd1-bf79-7c3fe8612b7a)
 
 **Purpose:**  
 Indicates that the user is an official member of the team — such as a developer, moderator, or administrator. These users are responsible for managing the platform and assisting the community.
@@ -79,13 +79,13 @@ Indicates that the user is an official member of the team — such as a develope
 
 ## Badge Visibility
 
-Official badges will appear like this:
+Official badges will not appear like this:
 
-![image](https://github.com/user-attachments/assets/6eb68afd-acb1-444e-af22-b77ba0fcbc40)
+![Not like this](https://github.com/user-attachments/assets/d02a43b4-27f1-4320-890d-58bceb6ff24b)
 
-Not like this:
+Or this:
 
-![image](https://github.com/user-attachments/assets/bdd320eb-8fa5-4aa7-ade2-2fd1fd840f32)
+![Or this](https://github.com/user-attachments/assets/c8a579ee-6dd5-465f-9f9b-38d9ea00d0a8)
 
 ---
 

@@ -45,6 +45,21 @@ Awarded to users who contribute to the accuracy and completeness of our collecti
 
 ---
 
+## Official Server Booster
+
+![Official Server Booster Badge Preview](https://github.com/user-attachments/assets/a937a62f-00ec-4925-90a8-25b9cc7757e3)
+
+**Purpose:**  
+Awarded to users who support the development of Shop Archives.
+
+**How to Earn:**  
+- Boost our [Official Discord server](https://discord.gg/Mcwh7hGcWb) and you will automatically receive this badge.
+
+> [!NOTE]
+> If you do not receive this badge after boosting our server, please let a server staff know and they will give you the badge.
+
+---
+
 ## Staff
 
 ![image](https://github.com/user-attachments/assets/b6168233-73dd-42e9-b68a-fc736bd81074)

@@ -1,8 +1,5 @@
 # Accounts
 
-> [!IMPORTANT]
-> The creation of a 'Standard' account is currently not possible.
-
 ![image](https://github.com/user-attachments/assets/2e4fb4ff-46cf-45f2-abae-37bd56108a0d)
 
 ---

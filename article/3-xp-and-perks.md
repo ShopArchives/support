@@ -1,7 +1,7 @@
 # XP and Perks
 
 > [!NOTE]
-> **XP Perks** is an experimental feature currently available to a small amount of desktop users.
+> **XP Perks** is currently an experiment available to select [Standard](https://github.com/ShopArchives/support/blob/main/article/2-accounts.md) users only.
 
 ---
 

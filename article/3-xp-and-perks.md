@@ -1,7 +1,8 @@
 # XP and Perks
 
 > [!NOTE]
-> **XP Perks** is an experimental feature only available to select users.
+> **XP Perks** is an experimental feature currently available to a small amount of desktop users.
+
 ---
 
 ## Rewards

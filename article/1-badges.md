@@ -14,6 +14,8 @@ On our platform, some users may be recognized with special badges next to their 
 **Purpose:**  
 Awarded to users who actively report bugs, glitches, or issues with the platform. This badge is a token of appreciation for helping improve the quality and stability of our service.
 
+Some bug hunters will have early access to new features.
+
 **How to Earn:**  
 - Submit useful, detailed bug reports via the Github issues form or our [Official Discord server](https://discord.gg/Mcwh7hGcWb).
 
@@ -40,23 +42,8 @@ Awarded to users who contribute to the accuracy and completeness of our collecti
 
 > [!IMPORTANT]
 > Providing the SKU IDs for the following items will not award you this badge
-- Quest rewards.
-- Collectibles already listed on Shop Archives.
-
----
-
-## Official Server Booster
-
-![Official Server Booster Badge Preview](https://github.com/user-attachments/assets/b82e88e7-3723-452d-b9c0-5fd2474f5ee5)
-
-**Purpose:**  
-Awarded to users who support the development of Shop Archives.
-
-**How to Earn:**  
-- Boost our [Official Discord server](https://discord.gg/Mcwh7hGcWb) and you will automatically receive this badge.
-
-> [!NOTE]
-> If you do not receive this badge after boosting our server, please let a server staff know and they will give you the badge.
+> - Quest rewards.
+> - Collectibles already listed on Shop Archives.
 
 ---
 
@@ -67,10 +54,9 @@ Awarded to users who support the development of Shop Archives.
 **Purpose:**  
 Indicates that the user is an official member of the team — such as a developer, moderator, or administrator. These users are responsible for managing the platform and assisting the community.
 
-**Permissions:**
+**Permissions (the badge itself does not grant you these perms):**
 - May moderate content (e.g., delete reviews).
-- Can assist with account or feature issues.
-- Serve as official contacts for questions or concerns.
+- Have early access to new features.
 
 > [!NOTE]
 > We are currently not recruiting any new staff members.

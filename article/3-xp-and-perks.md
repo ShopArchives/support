@@ -13,7 +13,7 @@ Users can claim 100 free XP if it's their first time logging in to a Standard ac
 
 Go to your user settings, in the 'Events' menu, click 'Claim 100 XP'.
 
-![How to claim this reward](https://github.com/user-attachments/assets/e09aaec6-21cf-4db5-af17-3a280664d29e)
+![How to claim this reward](https://github.com/user-attachments/assets/1e8dbb4a-8301-476a-ba8f-66598253c4e4)
 
 A modal will open, then you can click 'Claim 100 XP' and you will claim the Free Login Reward for 100 XP.
 
@@ -34,7 +34,7 @@ These events can be:
 
 In the 'Events' menu, click 'Take me there'.
 
-![How to claim Leaks event rewards](https://github.com/user-attachments/assets/0dcae1a2-86ef-4cae-b4f7-57c11a5fd611)
+![How to claim Leaks event rewards](https://github.com/user-attachments/assets/c8e08bdf-f331-4ac6-9ffe-3a3e7920da95)
 
 Once you are on the leaks page click on the latest category banner, then click the 'XP Rewards' tab then 'Claim 20 XP'.
 

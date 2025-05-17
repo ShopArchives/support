@@ -3,72 +3,44 @@
 
 <head>
     <base target="_blank">
-    <title>Loading... | Shop Archives</title>
+    <title>Support | Shop Archives</title>
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
     <meta content="Shop Archives" property="og:title" />
     <meta content="Your one stop place for all Discord Collectibles" property="og:description" />
-    <meta content="https://yapper.shop/" property="og:url" />
+    <meta content="https://support.yapper.shop/" property="og:url" />
     <meta content="https://cdn.yapper.shop/assets/172.png" property="og:image" />
     <meta content="#B9E87A" data-react-helmet="true" name="theme-color" />
     <link rel="stylesheet" href="/styles.css">
 </head>
 
 <body>
-    <div class="housing">
-        <div class="sidebar">
-            <div class="dm-list">
-                <div style="height: 100%; margin-top: 50px;" id="clickable-side-tabs-container">
-                </div>
-            </div>
-            <div class="server-list">
-                <div class="server-avatar">
-                    <button class="server-icon server-icon-selected server-home" id="activate-dev-mode-button">
-                    </button>
-                    <div class="server-pill">
-                    </div>
-                </div>
-                <hr style="opacity: 0;">
-                <div data-servers>
-                </div>
-                <template data-servers-template>
-                    <div class="server-avatar" data-servers-button>
-                        <img class="server-icon" src="" data-server-icon>
-                        </img>
-                    </div>
-                </template>
-            </div>
-            <div style="width: 320px;">
-            </div>
-        </div>
-        <div class="top-bar" id="top-bar-container">
-            <h2 style="margin-left: 260px; margin-top: 10px;">Loading...</h2>
-            <div id="open-help-modals-buttons-holder"></div>
-        </div>
-        <div class="home-housing" id="everything-housing-container">
-        </div>
+
+    <div class="sidebar">
+        <h2>Articles</h2>
+        <div class="article-link" id="article-1" onclick="loadArticle('1')">Reviews & Badges</div>
+        <div class="article-link" id="article-2" onclick="loadArticle('2')">Accounts</div>
+        <div class="article-link" id="article-3" onclick="loadArticle('3')">XP Perks & Events</div>
     </div>
-    <div class="modal-housing" id="modal-housing"></div>
-    
-    <script src="/assets/22.js"></script>
+  
+    <div class="content" id="article-content">
+        <h2>Welcome to the Support Center</h2>
+        <p>Select an article from the left to get started.</p>
+    </div>
+
+    <script src="scripts.js"></script>
     <script>
-        if (localStorage.full_client_rework === "false") {
-            location.href='/home';
-        } else {
-            let clickCount = 0;
+        loadArticle('1', true);
 
-            document.getElementById("activate-dev-mode-button").addEventListener("click", function() {
-                clickCount++;
+        const hash = window.location.hash;
+        const match = hash.match(/#page=([^&]+)/);
 
-                if (clickCount === 8) {
-                    if (localStorage.dev === "true") {
-                        turnOffDevMode();
-                    } else {
-                        dev();
-                    }
-                }
-            });
+        if (match) {
+            const page = match[1];
+
+            loadArticle(page);
         }
     </script>
-</body>
+  
+  </body>
 
 </html>

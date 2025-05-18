@@ -59,7 +59,7 @@ const articles = {
                     <p>Awarded to users who contribute to the accuracy and completeness of our collectible item listings by discovering and reporting unreleased or hidden items.</p>
                     <div class="important-block">
                         <p class="title">Important</p>
-                        <p>Providing the SKU IDs for the following items will not award you this badge</p>
+                        <p>Providing the SKU IDs for the following items will not award you this badge:</p>
                         <ul>
                             <li>Quest rewards</li>
                             <li>Collectibles already listed on Shop Archives</li>
